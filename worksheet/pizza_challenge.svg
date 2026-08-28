@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1414" width="210mm" height="297mm" font-family="Verdana, Arial, sans-serif">
+<rect x="0" y="0" width="1000" height="1414" fill="#ffffff"/>
+<circle cx="60" cy="60" r="34" fill="none" stroke="#ffd166" stroke-width="4"/>
+<circle cx="930" cy="90" r="24" fill="none" stroke="#ff8fa3" stroke-width="4"/>
+<circle cx="950" cy="1344" r="30" fill="none" stroke="#6bcb77" stroke-width="4"/>
+<circle cx="55" cy="1354" r="22" fill="none" stroke="#4d96ff" stroke-width="4"/>
+<text x="500.0" y="95" text-anchor="middle" font-size="46" font-weight="bold" fill="#e63946">Ajude o Luigi a entregar as pizzas! 🍕</text>
+<text x="500.0" y="140" text-anchor="middle" font-size="24" fill="#264653">Saia da pizzaria, visite cada amigo uma única vez e volte para a pizzaria.</text>
+<text x="500.0" y="172" text-anchor="middle" font-size="24" fill="#264653">Risque a lápis o caminho que você acha mais rápido. Os números são minutos!</text>
+
+    <g>
+      <ellipse cx="150.0" cy="460.0" rx="70" ry="14" fill="#000000" opacity="0.06"/>
+      <path d="M 104.0 460.0
+               C 92.0 380.0 98.0 328.0 150.0 324.0
+               C 202.0 328.0 208.0 380.0 196.0 460.0 Z"
+            fill="#ffffff" stroke="#dcdcdc" stroke-width="3"/>
+      <path d="M 104.0 460.0 C 92.0 380.0 98.0 328.0 150.0 324.0
+               L 150.0 460.0 Z" fill="#e63946" opacity="0.12"/>
+      <rect x="134.0" y="350.0" width="32" height="40" rx="6" fill="#e63946"/>
+      <circle cx="150.0" cy="272.0" r="52" fill="#ffd9a0" stroke="#e07a3f" stroke-width="4"/>
+      <path d="M 104.0 250.0
+               a 46 36 0 0 1 92 0
+               q 6 -30 -16 -32 q -6 12 -18 4 q -8 -16 -20 -4 q -6 -10 -18 -4 q -18 8 -20 36 Z"
+            fill="#ffffff" stroke="#dcdcdc" stroke-width="2"/>
+      <rect x="110.0" y="214.0" width="80" height="14" rx="6" fill="#ffffff" stroke="#dcdcdc" stroke-width="2"/>
+      <circle cx="132.0" cy="268.0" r="5.5" fill="#2b2d42"/>
+      <circle cx="168.0" cy="268.0" r="5.5" fill="#2b2d42"/>
+      <circle cx="132.0" cy="286.0" r="9" fill="#ffb37a" opacity="0.7"/>
+      <circle cx="168.0" cy="286.0" r="9" fill="#ffb37a" opacity="0.7"/>
+      <path d="M 128.0 296.0 q 10 12 22 12 q 12 0 22 -12
+               q -10 10 -22 10 q -12 0 -22 -10 Z" fill="#5c3a21"/>
+      <path d="M 150.0 300.0 q 6 -6 12 -2" stroke="#5c3a21" stroke-width="3" fill="none" stroke-linecap="round"/>
+      <path d="M 150.0 300.0 q -6 -6 -12 -2" stroke="#5c3a21" stroke-width="3" fill="none" stroke-linecap="round"/>
+    </g>
+<rect x="230" y="240" width="740" height="118" rx="24" fill="#ffffff" stroke="#ffd166" stroke-width="4"/>
+<polygon points="230,320 230,355 272,320" fill="#ffffff" stroke="#ffd166" stroke-width="4"/>
+<text x="600" y="272" text-anchor="middle" font-size="20" fill="#264653">"As pizzas estão quentinhas...</text>
+<text x="600" y="298" text-anchor="middle" font-size="20" fill="#264653">preciso entregar rápido, antes</text>
+<text x="600" y="324" text-anchor="middle" font-size="20" fill="#264653">que esfriem! Me ajudem?" - Luigi</text>
+<line x1="500.0" y1="450.0" x2="811.8" y2="990.0" stroke="#8d99ae" stroke-width="2.5" stroke-dasharray="9,7"/>
+<g><rect x="549.6" y="553.8" width="38" height="28" rx="8" fill="#ffffff" stroke="#8d99ae" stroke-width="1.5"/><text x="568.6" y="574.8" text-anchor="middle" font-size="19" font-weight="bold" fill="#2b2d42">4</text></g>
+<line x1="811.8" y1="990.0" x2="188.2" y2="990.0" stroke="#8d99ae" stroke-width="2.5" stroke-dasharray="9,7"/>
+<g><rect x="655.6" y="975.0" width="38" height="28" rx="8" fill="#ffffff" stroke="#8d99ae" stroke-width="1.5"/><text x="674.6" y="996.0" text-anchor="middle" font-size="19" font-weight="bold" fill="#2b2d42">2</text></g>
+<line x1="188.2" y1="990.0" x2="811.8" y2="630.0" stroke="#8d99ae" stroke-width="2.5" stroke-dasharray="9,7"/>
+<g><rect x="368.8" y="859.8" width="38" height="28" rx="8" fill="#ffffff" stroke="#8d99ae" stroke-width="1.5"/><text x="387.8" y="880.8" text-anchor="middle" font-size="19" font-weight="bold" fill="#2b2d42">4</text></g>
+<line x1="811.8" y1="630.0" x2="500.0" y2="1170.0" stroke="#8d99ae" stroke-width="2.5" stroke-dasharray="9,7"/>
+<g><rect x="724.2" y="733.8" width="38" height="28" rx="8" fill="#ffffff" stroke="#8d99ae" stroke-width="1.5"/><text x="743.2" y="754.8" text-anchor="middle" font-size="19" font-weight="bold" fill="#2b2d42">2</text></g>
+<line x1="500.0" y1="1170.0" x2="188.2" y2="630.0" stroke="#8d99ae" stroke-width="2.5" stroke-dasharray="9,7"/>
+<g><rect x="412.4" y="1036.2" width="38" height="28" rx="8" fill="#ffffff" stroke="#8d99ae" stroke-width="1.5"/><text x="431.4" y="1057.2" text-anchor="middle" font-size="19" font-weight="bold" fill="#2b2d42">4</text></g>
+<line x1="188.2" y1="630.0" x2="500.0" y2="450.0" stroke="#8d99ae" stroke-width="2.5" stroke-dasharray="9,7"/>
+<g><rect x="325.1" y="525.0" width="38" height="28" rx="8" fill="#ffffff" stroke="#8d99ae" stroke-width="1.5"/><text x="344.1" y="546.0" text-anchor="middle" font-size="19" font-weight="bold" fill="#2b2d42">2</text></g>
+<line x1="500.0" y1="450.0" x2="811.8" y2="630.0" stroke="#8d99ae" stroke-width="2.5" stroke-dasharray="9,7"/>
+<g><rect x="636.9" y="525.0" width="38" height="28" rx="8" fill="#ffffff" stroke="#8d99ae" stroke-width="1.5"/><text x="655.9" y="546.0" text-anchor="middle" font-size="19" font-weight="bold" fill="#2b2d42">1</text></g>
+<line x1="500.0" y1="450.0" x2="500.0" y2="1170.0" stroke="#8d99ae" stroke-width="2.5" stroke-dasharray="9,7"/>
+<g><rect x="481.0" y="665.4" width="38" height="28" rx="8" fill="#ffffff" stroke="#8d99ae" stroke-width="1.5"/><text x="500.0" y="686.4" text-anchor="middle" font-size="19" font-weight="bold" fill="#2b2d42">12</text></g>
+<line x1="500.0" y1="450.0" x2="188.2" y2="990.0" stroke="#8d99ae" stroke-width="2.5" stroke-dasharray="9,7"/>
+<g><rect x="412.4" y="553.8" width="38" height="28" rx="8" fill="#ffffff" stroke="#8d99ae" stroke-width="1.5"/><text x="431.4" y="574.8" text-anchor="middle" font-size="19" font-weight="bold" fill="#2b2d42">13</text></g>
+<line x1="811.8" y1="630.0" x2="811.8" y2="990.0" stroke="#8d99ae" stroke-width="2.5" stroke-dasharray="9,7"/>
+<g><rect x="792.8" y="795.0" width="38" height="28" rx="8" fill="#ffffff" stroke="#8d99ae" stroke-width="1.5"/><text x="811.8" y="816.0" text-anchor="middle" font-size="19" font-weight="bold" fill="#2b2d42">13</text></g>
+<line x1="811.8" y1="630.0" x2="188.2" y2="630.0" stroke="#8d99ae" stroke-width="2.5" stroke-dasharray="9,7"/>
+<g><rect x="655.6" y="615.0" width="38" height="28" rx="8" fill="#ffffff" stroke="#8d99ae" stroke-width="1.5"/><text x="674.6" y="636.0" text-anchor="middle" font-size="19" font-weight="bold" fill="#2b2d42">12</text></g>
+<line x1="811.8" y1="990.0" x2="500.0" y2="1170.0" stroke="#8d99ae" stroke-width="2.5" stroke-dasharray="9,7"/>
+<g><rect x="636.9" y="1065.0" width="38" height="28" rx="8" fill="#ffffff" stroke="#8d99ae" stroke-width="1.5"/><text x="655.9" y="1086.0" text-anchor="middle" font-size="19" font-weight="bold" fill="#2b2d42">14</text></g>
+<line x1="811.8" y1="990.0" x2="188.2" y2="630.0" stroke="#8d99ae" stroke-width="2.5" stroke-dasharray="9,7"/>
+<g><rect x="593.2" y="859.8" width="38" height="28" rx="8" fill="#ffffff" stroke="#8d99ae" stroke-width="1.5"/><text x="612.2" y="880.8" text-anchor="middle" font-size="19" font-weight="bold" fill="#2b2d42">13</text></g>
+<line x1="500.0" y1="1170.0" x2="188.2" y2="990.0" stroke="#8d99ae" stroke-width="2.5" stroke-dasharray="9,7"/>
+<g><rect x="325.1" y="1065.0" width="38" height="28" rx="8" fill="#ffffff" stroke="#8d99ae" stroke-width="1.5"/><text x="344.1" y="1086.0" text-anchor="middle" font-size="19" font-weight="bold" fill="#2b2d42">15</text></g>
+<line x1="188.2" y1="990.0" x2="188.2" y2="630.0" stroke="#8d99ae" stroke-width="2.5" stroke-dasharray="9,7"/>
+<g><rect x="169.2" y="795.0" width="38" height="28" rx="8" fill="#ffffff" stroke="#8d99ae" stroke-width="1.5"/><text x="188.2" y="816.0" text-anchor="middle" font-size="19" font-weight="bold" fill="#2b2d42">14</text></g>
+
+    <g>
+      <rect x="443.0" y="447.0" width="114.0" height="75.0"
+            fill="#fff7e6" stroke="#e63946" stroke-width="5"/>
+      <path d="M 443.0 414.0 L 462.0 414.0 L 462.0 447.0 A 9.5 9.5 0 0 1 443.0 447.0 Z" fill="#e63946" stroke="#b5121b" stroke-width="1.5"/><path d="M 462.0 414.0 L 481.0 414.0 L 481.0 447.0 A 9.5 9.5 0 0 1 462.0 447.0 Z" fill="#ffffff" stroke="#b5121b" stroke-width="1.5"/><path d="M 481.0 414.0 L 500.0 414.0 L 500.0 447.0 A 9.5 9.5 0 0 1 481.0 447.0 Z" fill="#e63946" stroke="#b5121b" stroke-width="1.5"/><path d="M 500.0 414.0 L 519.0 414.0 L 519.0 447.0 A 9.5 9.5 0 0 1 500.0 447.0 Z" fill="#ffffff" stroke="#b5121b" stroke-width="1.5"/><path d="M 519.0 414.0 L 538.0 414.0 L 538.0 447.0 A 9.5 9.5 0 0 1 519.0 447.0 Z" fill="#e63946" stroke="#b5121b" stroke-width="1.5"/><path d="M 538.0 414.0 L 557.0 414.0 L 557.0 447.0 A 9.5 9.5 0 0 1 538.0 447.0 Z" fill="#ffffff" stroke="#b5121b" stroke-width="1.5"/>
+      <rect x="443.0" y="404.0" width="114.0" height="10"
+            fill="#e63946"/>
+      <circle cx="500.0" cy="478.5" r="25.2"
+              fill="#ffffff" stroke="#e63946" stroke-width="4"/>
+      <path d="M 500.0 461.7
+               L 515.6 489.3
+               A 19.2 19.2 0 0 1 484.4 489.3 Z"
+            fill="#ffd166" stroke="#e63946" stroke-width="3" stroke-linejoin="round"/>
+      <circle cx="500.0" cy="478.5" r="3.0" fill="#e63946"/>
+      <rect x="486.8" y="484.8" width="26.4" height="37.2"
+            fill="#e63946" stroke="#7a1620" stroke-width="2"/>
+      <circle cx="508.4" cy="504.0" r="3" fill="#ffe6a8"/>
+    </g>
+<text x="500.0" y="392.0" text-anchor="middle" font-size="24" font-weight="bold" fill="#e63946">Pizzaria</text>
+
+    <g>
+      <rect x="785.3" y="623.1" width="52.9" height="48.3"
+            rx="6" fill="#fff7e6" stroke="#ff8fa3" stroke-width="5"/>
+      <polygon points="779.0,623.1 811.8,588.6 844.6,623.1"
+               fill="#ff8fa3" stroke="#ff8fa3" stroke-width="4" stroke-linejoin="round"/>
+      <rect x="804.4" y="646.1" width="14.7" height="25.3"
+            fill="#ff8fa3"/>
+    </g>
+<text x="811.8" y="710.0" text-anchor="middle" font-size="24" font-weight="bold" fill="#2b2d42">Ana</text>
+
+    <g>
+      <rect x="785.3" y="983.1" width="52.9" height="48.3"
+            rx="6" fill="#fff7e6" stroke="#4ecdc4" stroke-width="5"/>
+      <polygon points="779.0,983.1 811.8,948.6 844.6,983.1"
+               fill="#4ecdc4" stroke="#4ecdc4" stroke-width="4" stroke-linejoin="round"/>
+      <rect x="804.4" y="1006.1" width="14.7" height="25.3"
+            fill="#4ecdc4"/>
+    </g>
+<text x="811.8" y="1070.0" text-anchor="middle" font-size="24" font-weight="bold" fill="#2b2d42">Bruno</text>
+
+    <g>
+      <rect x="473.6" y="1163.1" width="52.9" height="48.3"
+            rx="6" fill="#fff7e6" stroke="#ffd166" stroke-width="5"/>
+      <polygon points="467.2,1163.1 500.0,1128.6 532.8,1163.1"
+               fill="#ffd166" stroke="#ffd166" stroke-width="4" stroke-linejoin="round"/>
+      <rect x="492.6" y="1186.1" width="14.7" height="25.3"
+            fill="#ffd166"/>
+    </g>
+<text x="500.0" y="1250.0" text-anchor="middle" font-size="24" font-weight="bold" fill="#2b2d42">Carla</text>
+
+    <g>
+      <rect x="161.8" y="983.1" width="52.9" height="48.3"
+            rx="6" fill="#fff7e6" stroke="#6bcb77" stroke-width="5"/>
+      <polygon points="155.4,983.1 188.2,948.6 221.0,983.1"
+               fill="#6bcb77" stroke="#6bcb77" stroke-width="4" stroke-linejoin="round"/>
+      <rect x="180.9" y="1006.1" width="14.7" height="25.3"
+            fill="#6bcb77"/>
+    </g>
+<text x="188.2" y="1070.0" text-anchor="middle" font-size="24" font-weight="bold" fill="#2b2d42">Diego</text>
+
+    <g>
+      <rect x="161.8" y="623.1" width="52.9" height="48.3"
+            rx="6" fill="#fff7e6" stroke="#4d96ff" stroke-width="5"/>
+      <polygon points="155.4,623.1 188.2,588.6 221.0,623.1"
+               fill="#4d96ff" stroke="#4d96ff" stroke-width="4" stroke-linejoin="round"/>
+      <rect x="180.9" y="646.1" width="14.7" height="25.3"
+            fill="#4d96ff"/>
+    </g>
+<text x="188.2" y="710.0" text-anchor="middle" font-size="24" font-weight="bold" fill="#2b2d42">Elisa</text>
+<rect x="80" y="1264" width="840" height="95" rx="16" fill="#ffffff" stroke="#e63946" stroke-width="3" stroke-dasharray="4,4"/>
+<text x="110" y="1304" font-size="22" fill="#264653">Meu caminho: ______________________________________</text>
+<text x="110" y="1342" font-size="22" fill="#264653">Tempo total: __________ minutos</text>
+</svg>
