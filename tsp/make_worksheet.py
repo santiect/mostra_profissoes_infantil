@@ -124,7 +124,7 @@ def build_svg():
         f'<text x="600" y="298" text-anchor="middle" font-size="20" fill="#264653">'
         f'preciso entregar rápido, antes</text>',
         f'<text x="600" y="324" text-anchor="middle" font-size="20" fill="#264653">'
-        f'que esfriem! Me ajudem?" - Luigi</text>',
+        f'que esfriem! Me ajudam?" - Luigi</text>',
     ]
 
     # arestas tracejadas (grafo completo) com rotulo dos tempos. cada rotulo
